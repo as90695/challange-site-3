@@ -147,7 +147,7 @@ body {
     /* main-section-formatting */
 
     .main {
-        margin: 10% 30%;
+/*         margin: 10% 30%; */
         display: inline-block;
         /* grid-template-rows: 400px 600px;
         row-gap: 0;
