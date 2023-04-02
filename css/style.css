@@ -160,9 +160,11 @@ body {
     .container {
         display: inline-block;
         justify-content: center;
-        width: 300px;
-        height: 600px;
-        box-shadow: 10px 10px 67px 0px rgba(0,0,0,0.32);
+/*         width: 300px;
+        height: 600px; */
+        width: 50%;
+        height: 80%;
+/*         box-shadow: 10px 10px 67px 0px rgba(0,0,0,0.32); */
     }
 
     .text {
